@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Informasi Pelatihan BPMJP Kemendag",
+  "description": "Sistem Informasi Pelatihan Balai Pelatihan SDM Metrologi, Mutu dan Jasa Perdagangan (BPMJP) Kementerian Perdagangan RI dengan integrasi Google Sheets & Apps Script.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
